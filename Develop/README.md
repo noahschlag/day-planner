@@ -1,0 +1,1 @@
+I had a really hard time with this project, I was started off by great help from a friend, I got most of the project done but, I am not sure where to go from where I am at. Javascript was my biggest achilles while taking this class, I wish I understood it better, but, I just don't hoping to receive more help on this in the next few days
